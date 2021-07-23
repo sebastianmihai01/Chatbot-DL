@@ -1,5 +1,7 @@
 # Chatbot-DL - Documentation
 
+## Got bored, might edit later
+
 ## Libraries
 
 - nltk (Natural Language Toolkit) - formatting data, stemming, cleaning up
