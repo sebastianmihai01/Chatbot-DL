@@ -1,6 +1,6 @@
 # Chatbot-DL - Documentation
 
-## Got bored, might edit later
+# Update: Got bored, might edit later
 
 ## Libraries
 
